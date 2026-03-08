@@ -5,9 +5,10 @@ This project contains shader templates to bake procedurally generated patterns o
 
 <details open><summary><b>Previews</b></summary>
 
+---
 <!-- Topography Pattern -->
 <details open>
-<summary>&nbsp;&nbsp;<b>Topography Pattern</b></summary>
+<summary><b>Topography Pattern</b></summary>
 
 ---
 <img 
@@ -25,18 +26,16 @@ This project contains shader templates to bake procedurally generated patterns o
 <br>
 This is a topography inspired pattern imitating the lines on maps to visualize elevation
 
+<!--
 **Features**:<br>
 &bullet; Opacity Mask Shader to generate an alpha mask to repack into the final texture. This allows to select a color for lines within the ingame editor.
-
-**Known Issues**:<br>
-&bullet; The directional resampling along the axes to create the outline needs to be extended to clean up inconsistent sampling of corners 
-
+-->
 </details>
 <!-- /Topography Pattern -->
 
 <!-- Disruptive Pattern -->
 <details open>
-<summary>&nbsp;&nbsp;<b>Disruptive Camo Pattern</b></summary>
+<summary><b>Disruptive Camo Pattern</b></summary>
 
 ---
 <img 
@@ -59,7 +58,7 @@ Inspired by the most commonly used Type of disruptive Camo Patterns by Militarie
 
 <!-- Pixel Pattern -->
 <details open>
-<summary>&nbsp;&nbsp;<b>Pixel Camo Pattern</b></summary>
+<summary><b>Pixel Camo Pattern</b></summary>
 
 ---
 <img 
@@ -76,17 +75,12 @@ Inspired by the most commonly used Type of disruptive Camo Patterns by Militarie
 />
 <br>
 Inspired by Pixelated Camo Patterns used by North-American Militaries (Marpat, Cadpat, ACU...)
-
-**Known Issues**<br>
-&bullet; Its not possible to project uniform sqares onto complex non uniform geoetry without warp. This is visible on rounded areas of the geometry.
-<br>
-
 </details>
 <!-- !Pixel Pattern -->
 
 <!-- Splinter Pattern -->
 <details open>
-<summary>&nbsp;&nbsp;<b>Preview Splinter Camo Pattern</b></summary>
+<summary><b>Splinter Camo Pattern</b></summary>
 
 ---
 <img 
@@ -158,5 +152,20 @@ Wait until the Bake Process finishes (Progress Bar in Status Bar at the bottom)
 ![Save the baked Texture](./Images/Usage/Usage_13_ExportImage.PNG "Save the baked Texture")
 ![Save the baked Texture](./Images/Usage/Usage_14_SaveImage.PNG "Save the baked Texture")
 You are done, now you can use the exported Pattern with your preferred Image Editor to create the custom Livery
+
+</details>
+
+<br>
+
+<details open>
+<summary>&nbsp;&nbsp;<b>Known Issues</b></summary>
+
+---
+&bullet; Distortion on Topography Pattern:<br>
+The directional resampling along the axes to create the outline needs to be extended to clean up inconsistent sampling of corners 
+
+&bullet; Warp on Pixel Camos:<br>
+Its not possible to project uniform sqares onto complex non uniform geoetry without warp. This is visible on rounded areas of the geometry.
+<br>
 
 </details>
