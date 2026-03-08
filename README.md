@@ -33,9 +33,31 @@ This is a topography inspired pattern imitating the lines on maps to visualize e
 </details>
 <!-- /Topography Pattern -->
 
+<!-- Wave Pattern -->
+<details open>
+<summary><b>Topography Pattern</b></summary>
+
+---
+<img 
+    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="256"
+/>
+<img 
+    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha_Shaderball.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="455"
+/>
+<br>
+Wave Function combined with a Stepper Function, where the white textured Layer fades alpha with each Step toward the base Color.
+</details>
+<!-- /Wave Pattern -->
+
 <!-- Disruptive Pattern -->
 <details open>
-<summary><b>Disruptive Camo Pattern</b></summary>
+<summary><b>Wave Pattern (Stepped)</b></summary>
 
 ---
 <img 
