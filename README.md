@@ -31,12 +31,11 @@ This is a topography inspired pattern imitating the lines on maps to visualize e
 **Known Issues**:<br>
 &bullet; The directional resampling along the axes to create the outline needs to be extended to clean up inconsistent sampling of corners 
 
----
 </details>
 <!-- /Topography Pattern -->
 
 <!-- Disruptive Pattern -->
-<details close>
+<details open>
 <summary>&nbsp;&nbsp;<b>Disruptive Camo Pattern</b></summary>
 
 ---
@@ -55,12 +54,11 @@ This is a topography inspired pattern imitating the lines on maps to visualize e
 <br>
 Inspired by the most commonly used Type of disruptive Camo Patterns by Militaries around the Globe
 
----
 </details>
 <!-- /Disruptive Pattern -->
 
 <!-- Pixel Pattern -->
-<details close>
+<details open>
 <summary>&nbsp;&nbsp;<b>Pixel Camo Pattern</b></summary>
 
 ---
@@ -83,12 +81,11 @@ Inspired by Pixelated Camo Patterns used by North-American Militaries (Marpat, C
 &bullet; Its not possible to project uniform sqares onto complex non uniform geoetry without warp. This is visible on rounded areas of the geometry.
 <br>
 
----
 </details>
 <!-- !Pixel Pattern -->
 
 <!-- Splinter Pattern -->
-<details close>
+<details open>
 <summary>&nbsp;&nbsp;<b>Preview Splinter Camo Pattern</b></summary>
 
 ---
@@ -107,16 +104,14 @@ Inspired by Pixelated Camo Patterns used by North-American Militaries (Marpat, C
 <br>
 Inspired by the Swedish Army M90 Camo Pattern
 
----
 </details>
 <!-- !Splinter Pattern -->
 
 </details>
 
+<br>
 
-Disclaimer: This is not a complete guide to create custom liveries.
-
-<details close>
+<details open>
 <summary>&nbsp;&nbsp;<b>Usage</b></summary>
 
 ---
