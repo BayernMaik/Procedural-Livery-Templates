@@ -35,7 +35,7 @@ This is a topography inspired pattern imitating the lines on maps to visualize e
 
 <!-- Wave Pattern -->
 <details open>
-<summary><b>Topography Pattern</b></summary>
+<summary><b>Wave Pattern</b></summary>
 
 ---
 <img 
@@ -57,7 +57,7 @@ Wave Function combined with a Stepper Function, where the white textured Layer f
 
 <!-- Disruptive Pattern -->
 <details open>
-<summary><b>Wave Pattern (Stepped)</b></summary>
+<summary><b>Disruptive Camo Pattern</b></summary>
 
 ---
 <img 
