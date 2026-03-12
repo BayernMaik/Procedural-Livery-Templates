@@ -8,56 +8,49 @@ This project contains shader templates to bake procedurally generated patterns o
 ---
 <!-- Topography Pattern -->
 <details open>
-<summary><b>Topography Pattern</b></summary>
+<summary><b>Bubbles</b></summary>
 
 ---
 <img 
-    src="./Preview/Topography/Preview_NoiseTexture_Topography.png"
-    title="Preview NoiseTexture Topography"
-    alt="Preview NoiseTexture Topography"
+    src="./Preview/Bubbles/Preview_VoronoiTexture_Bubbles.png"
+    title="Preview VoronoiTexture Bubbles"
+    alt="Preview VoronoiTexture Bubbles"
     width="256"
 />
 <img 
-    src="./Preview/Topography/Preview_NoiseTexture_Topography_Shaderball.png"
-    title="Preview NoiseTexture Topography"
-    alt="Preview NoiseTexture Topography"
+    src="./Preview/Bubbles/Preview_VoronoiTexture_Bubbles_Shaderball.png"
+    title="Preview VoronoiTexture Shaderball"
+    alt="Preview VoronoiTexture Shaderball"
     width="455"
 />
 <br>
-This is a topography inspired pattern imitating the lines on maps to visualize elevation
-
-<!--
-**Features**:<br>
-&bullet; Opacity Mask Shader to generate an alpha mask to repack into the final texture. This allows to select a color for lines within the ingame editor.
--->
 </details>
 <!-- /Topography Pattern -->
 
-<!-- Wave Pattern -->
+<!-- Chromatic Pattern -->
 <details open>
-<summary><b>Wave Pattern</b></summary>
+<summary><b>Chromatic</b></summary>
 
 ---
 <img 
-    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha.png"
-    title="Preview NoiseTexture Topography"
-    alt="Preview NoiseTexture Topography"
+    src="./Preview/Chromatic/Preview_VoronoiTexture_Chromatic.png"
+    title="Preview VoronoiTexture Chromatic"
+    alt="Preview VoronoiTexture Chromatic"
     width="256"
 />
 <img 
-    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha_Shaderball.png"
-    title="Preview NoiseTexture Topography"
-    alt="Preview NoiseTexture Topography"
+    src="./Preview/Chromatic/Preview_VoronoiTexture_Chromatic_Shaderball.png"
+    title="Preview VoronoiTexture Chromatic Shaderball"
+    alt="Preview VoronoiTexture Chromatic Shaderball"
     width="455"
 />
 <br>
-Wave Function combined with a Stepper Function, where the white textured Layer fades alpha with each Step toward the base Color.
 </details>
-<!-- /Wave Pattern -->
+<!-- /Chromatic Pattern -->
 
 <!-- Disruptive Pattern -->
 <details open>
-<summary><b>Disruptive Camo Pattern</b></summary>
+<summary><b>Disruptive Camo</b></summary>
 
 ---
 <img 
@@ -74,13 +67,12 @@ Wave Function combined with a Stepper Function, where the white textured Layer f
 />
 <br>
 Inspired by the most commonly used Type of disruptive Camo Patterns by Militaries around the Globe
-
 </details>
 <!-- /Disruptive Pattern -->
 
 <!-- Pixel Pattern -->
 <details open>
-<summary><b>Pixel Camo Pattern</b></summary>
+<summary><b>Pixel Camo</b></summary>
 
 ---
 <img 
@@ -102,7 +94,7 @@ Inspired by Pixelated Camo Patterns used by North-American Militaries (Marpat, C
 
 <!-- Splinter Pattern -->
 <details open>
-<summary><b>Splinter Camo Pattern</b></summary>
+<summary><b>Splinter Camo</b></summary>
 
 ---
 <img 
@@ -119,12 +111,97 @@ Inspired by Pixelated Camo Patterns used by North-American Militaries (Marpat, C
 />
 <br>
 Inspired by the Swedish Army M90 Camo Pattern
-
 </details>
 <!-- !Splinter Pattern -->
 
-</details>
+<!-- Topography Pattern -->
+<details open>
+<summary><b>Topography</b></summary>
 
+---
+<img 
+    src="./Preview/Topography/Preview_NoiseTexture_Topography.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="256"
+/>
+<img 
+    src="./Preview/Topography/Preview_NoiseTexture_Topography_Shaderball.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="455"
+/>
+<br>
+This is a topography inspired pattern imitating the lines on maps to visualize elevation
+</details>
+<!-- /Topography Pattern -->
+
+<!-- Digiboard Pattern -->
+<details open>
+<summary><b>Digiboard</b></summary>
+
+---
+<img 
+    src="./Preview/Digiboard/Preview_VoronoiTexture_Digiboard.png"
+    title="Preview VoronoiTexture Digiboard"
+    alt="Preview VoronoiTexture Digiboard"
+    width="256"
+/>
+<img 
+    src="./Preview/Digiboard/Preview_VoronoiTexture_Digiboard_Shaderball.png"
+    title="Preview VoronoiTexture Digiboard Shaderball"
+    alt="Preview VoronoiTexture Digiboard Shaderball"
+    width="455"
+/>
+<br>
+Digital Pattern inspired by techologia
+</details>
+<!-- /Digiboard Pattern -->
+
+<!-- Wave Pattern -->
+<details open>
+<summary><b>Lilypads</b></summary>
+
+---
+<img 
+    src="./Preview/Lilypad/Preview_VoronoiTexture_Lilypad.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="256"
+/>
+<img 
+    src="./Preview/Lilypad/Preview_VoronoiTexture_Lilypad_Shaderball.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="455"
+/>
+<br>
+Inspired by Ponds and the Stuff that grows in them
+</details>
+<!-- /Wave Pattern -->
+
+<!-- Wave Pattern -->
+<details open>
+<summary><b>Waves</b></summary>
+
+---
+<img 
+    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="256"
+/>
+<img 
+    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha_Shaderball.png"
+    title="Preview NoiseTexture Topography"
+    alt="Preview NoiseTexture Topography"
+    width="455"
+/>
+<br>
+Wave Function combined with a Stepper Function, where the white textured Layer fades alpha with each Step toward the base Color.
+</details>
+<!-- /Wave Pattern -->
+</details>
 <br>
 
 <details open>
