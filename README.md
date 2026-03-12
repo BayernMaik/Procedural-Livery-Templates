@@ -12,13 +12,13 @@ This project contains shader templates to bake procedurally generated patterns o
 
 ---
 <img 
-    src="./Preview/Bubbles/Preview_VoronoiTexture_Bubbles.png"
+    src="./Preview/Preview_NoiseTexture_Bubbles/Preview_VoronoiTexture_Bubbles.png"
     title="Preview VoronoiTexture Bubbles"
     alt="Preview VoronoiTexture Bubbles"
     width="256"
 />
 <img 
-    src="./Preview/Bubbles/Preview_VoronoiTexture_Bubbles_Shaderball.png"
+    src="./Preview/Preview_NoiseTexture_Bubbles/Preview_VoronoiTexture_Bubbles_Shaderball.png"
     title="Preview VoronoiTexture Shaderball"
     alt="Preview VoronoiTexture Shaderball"
     width="455"
@@ -33,13 +33,13 @@ This project contains shader templates to bake procedurally generated patterns o
 
 ---
 <img 
-    src="./Preview/Chromatic/Preview_VoronoiTexture_Chromatic.png"
+    src="./Preview/Preview_NoiseTexture_Chromatic/Preview_VoronoiTexture_Chromatic.png"
     title="Preview VoronoiTexture Chromatic"
     alt="Preview VoronoiTexture Chromatic"
     width="256"
 />
 <img 
-    src="./Preview/Chromatic/Preview_VoronoiTexture_Chromatic_Shaderball.png"
+    src="./Preview/Preview_NoiseTexture_Chromatic/Preview_VoronoiTexture_Chromatic_Shaderball.png"
     title="Preview VoronoiTexture Chromatic Shaderball"
     alt="Preview VoronoiTexture Chromatic Shaderball"
     width="455"
@@ -54,13 +54,13 @@ This project contains shader templates to bake procedurally generated patterns o
 
 ---
 <img 
-    src="./Preview/DisruptiveCamo/Preview_NoiseTexture_DisruptiveCamo.png"
+    src="./Preview/Preview_NoiseTexture_DisruptiveCamo/Preview_NoiseTexture_DisruptiveCamo.png"
     title="Preview NoiseTexture DisruptiveCamo Generic"
     alt="Preview NoiseTexture DisruptiveCamo Generic"
     width="256"
 />
 <img 
-    src="./Preview/DisruptiveCamo/Preview_NoiseTexture_DisruptiveCamo_Shaderball.png"
+    src="./Preview/Preview_NoiseTexture_DisruptiveCamo/Preview_NoiseTexture_DisruptiveCamo_Shaderball.png"
     title="Preview NoiseTexture DisruptiveCamo Generic"
     alt="Preview NoiseTexture DisruptiveCamo Generic"
     width="455"
@@ -76,13 +76,13 @@ Inspired by the most commonly used Type of disruptive Camo Patterns by Militarie
 
 ---
 <img 
-    src="./Preview/PixelCamo/Preview_NoiseTexture_PixelCamo.png"
+    src="./Preview/Preview_NoiseTexture_PixelCamo/Preview_NoiseTexture_PixelCamo.png"
     title="Preview NoiseTexture PixelCamo Marpat"
     alt="Preview NoiseTexture SplinterCamo Marpat"
     width="256"
 />
 <img 
-    src="./Preview/PixelCamo/Preview_NoiseTexture_PixelCamo_Shaderball.png"
+    src="./Preview/Preview_NoiseTexture_PixelCamo/Preview_NoiseTexture_PixelCamo_Shaderball.png"
     title="Preview NoiseTexture SplinterCamo M90"
     alt="Preview NoiseTexture SplinterCamo M90"
     width="455"
@@ -98,13 +98,13 @@ Inspired by Pixelated Camo Patterns used by North-American Militaries (Marpat, C
 
 ---
 <img 
-    src="./Preview/SplinterCamo/Preview_NoiseTexture_SplinterCamo.png"
+    src="./Preview/Preview_NoiseTexture_SplinterCamo/Preview_NoiseTexture_SplinterCamo.png"
     title="Preview NoiseTexture SplinterCamo M90"
     alt="Preview NoiseTexture SplinterCamo M90"
     width="256"
 />
 <img 
-    src="./Preview/SplinterCamo/Preview_NoiseTexture_SplinterCamo_Shaderball.png"
+    src="./Preview/Preview_NoiseTexture_SplinterCamo/Preview_NoiseTexture_SplinterCamo_Shaderball.png"
     title="Preview NoiseTexture SplinterCamo M90"
     alt="Preview NoiseTexture SplinterCamo M90"
     width="455"
@@ -120,13 +120,13 @@ Inspired by the Swedish Army M90 Camo Pattern
 
 ---
 <img 
-    src="./Preview/Topography/Preview_NoiseTexture_Topography.png"
+    src="./Preview/Preview_NoiseTexture_Topography/Preview_NoiseTexture_Topography.png"
     title="Preview NoiseTexture Topography"
     alt="Preview NoiseTexture Topography"
     width="256"
 />
 <img 
-    src="./Preview/Topography/Preview_NoiseTexture_Topography_Shaderball.png"
+    src="./Preview/Preview_NoiseTexture_Topography/Preview_NoiseTexture_Topography_Shaderball.png"
     title="Preview NoiseTexture Topography"
     alt="Preview NoiseTexture Topography"
     width="455"
@@ -142,13 +142,13 @@ This is a topography inspired pattern imitating the lines on maps to visualize e
 
 ---
 <img 
-    src="./Preview/Digiboard/Preview_VoronoiTexture_Digiboard.png"
+    src="./Preview/Preview_VoronoiTexture_Digiboard/Preview_VoronoiTexture_Digiboard.png"
     title="Preview VoronoiTexture Digiboard"
     alt="Preview VoronoiTexture Digiboard"
     width="256"
 />
 <img 
-    src="./Preview/Digiboard/Preview_VoronoiTexture_Digiboard_Shaderball.png"
+    src="./Preview/Preview_VoronoiTexture_Digiboard/Preview_VoronoiTexture_Digiboard_Shaderball.png"
     title="Preview VoronoiTexture Digiboard Shaderball"
     alt="Preview VoronoiTexture Digiboard Shaderball"
     width="455"
@@ -164,13 +164,13 @@ Digital Pattern inspired by techologia
 
 ---
 <img 
-    src="./Preview/Lilypad/Preview_VoronoiTexture_Lilypad.png"
+    src="./Preview/Preview_VoronoiTexture_Lilypad/Preview_VoronoiTexture_Lilypad.png"
     title="Preview NoiseTexture Topography"
     alt="Preview NoiseTexture Topography"
     width="256"
 />
 <img 
-    src="./Preview/Lilypad/Preview_VoronoiTexture_Lilypad_Shaderball.png"
+    src="./Preview/Preview_VoronoiTexture_Lilypad/Preview_VoronoiTexture_Lilypad_Shaderball.png"
     title="Preview NoiseTexture Topography"
     alt="Preview NoiseTexture Topography"
     width="455"
@@ -186,13 +186,13 @@ Inspired by Ponds and the Stuff that grows in them
 
 ---
 <img 
-    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha.png"
+    src="./Preview/Preview_WaveTexture_Waves/Preview_WaveTexture_SteppedAlpha.png"
     title="Preview NoiseTexture Topography"
     alt="Preview NoiseTexture Topography"
     width="256"
 />
 <img 
-    src="./Preview/WaveTexture/Preview_WaveTexture_SteppedAlpha_Shaderball.png"
+    src="./Preview/Preview_WaveTexture_Waves/Preview_WaveTexture_SteppedAlpha_Shaderball.png"
     title="Preview NoiseTexture Topography"
     alt="Preview NoiseTexture Topography"
     width="455"
