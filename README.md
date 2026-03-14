@@ -70,6 +70,28 @@ Inspired by the most commonly used Type of disruptive Camo Patterns by Militarie
 </details>
 <!-- /Disruptive Pattern -->
 
+<!-- Disruptive Pattern -->
+<details open>
+<summary><b>Fleck Camo</b></summary>
+
+---
+<img 
+    src="./Preview/Preview_NoiseTexture_Fleck/Preview_NoiseTexture_Fleck.png"
+    title="Preview NoiseTexture Fleck"
+    alt="Preview NoiseTexture Fleck"
+    width="256"
+/>
+<img 
+    src="./Preview/Preview_NoiseTexture_Fleck/Preview_NoiseTexture_Fleck_Shaderball.png"
+    title="Preview NoiseTexture Fleck Generic"
+    alt="Preview NoiseTexture Fleck Generic"
+    width="455"
+/>
+<br>
+Inspired by the german 5-Farb Flecktarn
+</details>
+<!-- /Disruptive Pattern -->
+
 <!-- Pixel Pattern -->
 <details open>
 <summary><b>Pixel Camo</b></summary>
