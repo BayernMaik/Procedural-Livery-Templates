@@ -1,7 +1,6 @@
-# ACC - Procedural Liveries - Template
+# Procedural Liveries - Templates
 
-This project contains shader templates to bake procedurally generated patterns onto your meshes to create custom liveries for Assetto Corsa Competizione. (Works for other games aswell, depending on the workflow to get the textures in the game).
-
+This Project contains Shader/Material Templates to bake procedurally generated Patterns onto your Meshes to create Decal Layers for custom Liveries.
 
 <details open><summary><b>Previews</b></summary>
 
