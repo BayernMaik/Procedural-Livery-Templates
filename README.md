@@ -180,27 +180,49 @@ Digital Pattern inspired by techologia
 </details>
 <!-- /Digiboard Pattern -->
 
-<!-- Wave Pattern -->
+<!-- Lilypad -->
 <details open>
 <summary><b>Lilypads</b></summary>
 
 ---
 <img 
     src="./Preview/Preview_VoronoiTexture_Lilypad/Preview_VoronoiTexture_Lilypad.png"
-    title="Preview NoiseTexture Topography"
-    alt="Preview NoiseTexture Topography"
+    title="Preview VoronoiTexture Lilypad"
+    alt="Preview VoronoiTexture Lilypad"
     width="256"
 />
 <img 
     src="./Preview/Preview_VoronoiTexture_Lilypad/Preview_VoronoiTexture_Lilypad_Shaderball.png"
-    title="Preview NoiseTexture Topography"
-    alt="Preview NoiseTexture Topography"
+    title="Preview VoronoiTexture Lilypad"
+    alt="Preview VoronoiTexture Lilypad"
     width="455"
 />
 <br>
 Inspired by Ponds and the Stuff that grows in them
 </details>
-<!-- /Wave Pattern -->
+<!-- /Lilypad -->
+
+<!-- Flanell -->
+<details open>
+<summary><b>Waves</b></summary>
+
+---
+<img 
+    src="./Preview/Preview_WaveTexture_Flanell/Preview_WaveTexture_Flanell.png"
+    title="Preview NoiseTexture Flanell"
+    alt="Preview NoiseTexture Flanell"
+    width="256"
+/>
+<img 
+    src="./Preview/Preview_WaveTexture_Flanell/Preview_WaveTexture_Flanell_Shaderball.png"
+    title="Preview NoiseTexture Flanell"
+    alt="Preview NoiseTexture Flanell"
+    width="455"
+/>
+<br>
+Inspired by Patterns on Flanell Shirts
+</details>
+<!-- /Flanell -->
 
 <!-- Wave Pattern -->
 <details open>
@@ -282,11 +304,16 @@ You are done, now you can use the exported Pattern with your preferred Image Edi
 <summary>&nbsp;&nbsp;<b>Known Issues</b></summary>
 
 ---
+&bullet; Distortion on Flanell Patterns<br>
+The Lines in the Flanell Pattern will show Seams where the Geometry Normals change orientation around Curvature. The Threshold Values must be tweaked to hide the Seams for different Geometry. 
+
 &bullet; Distortion on Topography Pattern:<br>
 The directional resampling along the axes to create the outline needs to be extended to clean up inconsistent sampling of corners 
 
 &bullet; Warp on Pixel Camos:<br>
 Its not possible to project uniform sqares onto complex non uniform geoetry without warp. This is visible on rounded areas of the geometry.
 <br>
+
+
 
 </details>
