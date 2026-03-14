@@ -203,7 +203,7 @@ Inspired by Ponds and the Stuff that grows in them
 
 <!-- Flanell -->
 <details open>
-<summary><b>Waves</b></summary>
+<summary><b>Flanell</b></summary>
 
 ---
 <img 
